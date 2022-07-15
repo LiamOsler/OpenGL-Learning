@@ -1,13 +1,4 @@
 
-/************************************************************************************
-
-	File: 			reshape.c
-
-	Description:	A complete OpenGL program to draw a triangle (re-scalable).
-
-	Author:			Stephen Brooks
-
-*************************************************************************************/
 #define _USE_MATH_DEFINES //Needed to use M_PI for the value of pi
 
 
